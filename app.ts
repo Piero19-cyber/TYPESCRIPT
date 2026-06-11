@@ -1,2 +1,5 @@
-
-console.log("Hello World!");
+import {
+    departament, 
+    province, 
+    district
+} from './types/types';
